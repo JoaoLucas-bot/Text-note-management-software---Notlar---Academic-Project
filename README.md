@@ -27,4 +27,6 @@ computing concepts.
 • Security approaches, including authentication and encryption.
 • Code clarity and provided justifications for decision-making.
 
+Development of the concept of “WebApp” in REACT, with the Back-End be developed in NodeJS (API) and the storage in SQL Server 2019 a run on Windows Server 2022. Model 3 layers.
+
 The presentation file was prepared in Portuguese.
