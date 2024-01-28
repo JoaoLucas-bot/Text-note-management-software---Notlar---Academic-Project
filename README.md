@@ -1,5 +1,6 @@
 # Text-note-management-software---Notlar---Academic-Project
 Develop ”Notlar”, an advanced distributed system for managing text notes. The objective is to allow users to store, access, and retrieve text notes on distributed servers, potentially located in different parts of the world.
+
 Specifications:
 • Students are responsible for defining and justifying the chosen architecture, considering the outlined objectives.
 • Implement an efficient mechanism for naming and locating resources.
