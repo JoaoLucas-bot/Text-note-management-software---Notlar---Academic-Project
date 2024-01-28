@@ -26,3 +26,5 @@ Evaluation:
 computing concepts.
 • Security approaches, including authentication and encryption.
 • Code clarity and provided justifications for decision-making.
+
+The presentation file was prepared in Portuguese.
